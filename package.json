@@ -4,7 +4,7 @@
   "description": "First project",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app",
+    "start": "node app",
     "test": "jest --watchAll"
   },
   "author": "Suraj",
